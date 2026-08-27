@@ -61,7 +61,8 @@ jobs:
           file: "index.md"
           search: "# [a-zA-Z0-9]"
 
-      # In README.md, switch step 1 for step 2.
+      # In README.md, switch step 1 for step 2. ... 
+      
       - name: Update to step 2
         uses: skills/action-update-step@v2
         with:
